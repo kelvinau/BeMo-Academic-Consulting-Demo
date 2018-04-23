@@ -1,0 +1,60 @@
+.cke_editable {
+    resize: both;
+}
+.cke_textarea_inline {
+    padding: 10px;
+    height: 200px;
+    overflow: auto;
+    border: 1px solid #8dae28;
+    background-color: #ffffff;
+    a {
+        pointer-events: none;
+    }
+}
+.cke_textarea_inline, main {
+    a {
+        color: #FF6600;
+    }
+    h1 {
+        color: #000066;
+        font-weight: bold;
+        font-size: 30px;
+        padding: 50px 0;
+    }
+    h2 {
+        color: #000066;
+        font-weight: bold;
+        font-size: 17px;
+        padding: 30px 0;
+    }
+    h3 {
+        font-size: 16px;
+        font-weight: bold;
+        padding: 15px 0;
+    }
+    h4 {
+        font-size: 16px;
+        font-weight: normal;
+        padding: 15px 0;
+    }
+    h5 {
+        font-size: 14px;
+    }
+    h6 {
+        font-size: 12px;
+    }
+    p {
+        font-size: 16px;
+        padding: 10px 0;
+    }
+    ol {
+        margin-left: 15px;
+    }
+    ul {
+        margin-left: 20px;
+    }
+    blockquote {
+        font-family: georgia, sarif;
+        font-style: italic;
+    }
+}

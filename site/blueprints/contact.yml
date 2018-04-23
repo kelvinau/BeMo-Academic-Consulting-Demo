@@ -1,0 +1,42 @@
+title: Contact Us
+
+pages: false
+
+fields:
+
+  noindex: 
+    label: No Index (Not crawled by search engines)
+    type: select
+    default: 1
+    options:
+       1: 'Yes'
+       0: 'No'
+
+  metatitle:
+    label: Page Title Tag
+    type: text
+
+  metadescription:
+    label: Description Meta Tag
+    type: text
+
+  pageimage:
+    label: Page Image
+    type: select
+    options: images
+
+  pageimagecaption:
+    label: Page Image Caption
+    type: text
+    
+  body_content:
+    label: Body
+    type:  ckeditor
+
+  emailreceiver:
+    label: Contact Email Receiver
+    type:  email
+
+  formfooter:
+    label: Footer
+    type:  ckeditor

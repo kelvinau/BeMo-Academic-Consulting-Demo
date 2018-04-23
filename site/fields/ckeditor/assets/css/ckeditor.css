@@ -1,0 +1,46 @@
+.cke_editable {
+  resize: both; }
+
+.cke_textarea_inline {
+  padding: 10px;
+  height: 200px;
+  overflow: auto;
+  border: 1px solid #8dae28;
+  background-color: #ffffff; }
+  .cke_textarea_inline a {
+    pointer-events: none; }
+
+.cke_textarea_inline a, main a {
+  color: #FF6600; }
+.cke_textarea_inline h1, main h1 {
+  color: #000066;
+  font-weight: bold;
+  font-size: 30px;
+  padding: 50px 0; }
+.cke_textarea_inline h2, main h2 {
+  color: #000066;
+  font-weight: bold;
+  font-size: 17px;
+  padding: 30px 0; }
+.cke_textarea_inline h3, main h3 {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 15px 0; }
+.cke_textarea_inline h4, main h4 {
+  font-size: 16px;
+  font-weight: normal;
+  padding: 15px 0; }
+.cke_textarea_inline h5, main h5 {
+  font-size: 14px; }
+.cke_textarea_inline h6, main h6 {
+  font-size: 12px; }
+.cke_textarea_inline p, main p {
+  font-size: 16px;
+  padding: 10px 0; }
+.cke_textarea_inline ol, main ol {
+  margin-left: 15px; }
+.cke_textarea_inline ul, main ul {
+  margin-left: 20px; }
+.cke_textarea_inline blockquote, main blockquote {
+  font-family: georgia, sarif;
+  font-style: italic; }

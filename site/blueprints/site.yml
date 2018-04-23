@@ -1,0 +1,19 @@
+title: Site
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  logo:
+    label: Logo
+    type: select
+    options: images
+
+  fb_meta:
+    label: Facebook Advertising Pixel Tag
+    type: text
+
+  google_meta:
+    label: Google Analytics Tag
+    type: text

@@ -1,0 +1,30 @@
+.uniform__potty {
+    position: absolute;
+    left: -9999px;
+}
+form {
+    text-align: center;
+    padding: 0 10%;
+}
+form label {
+    color: #373737;
+    text-transform: uppercase;
+}
+.form-input-field {
+    width: 100%;
+}
+.footer-msg {
+    text-align: center;
+}
+.message-container {
+    padding: 50px 0;
+}
+.sentMessage {
+    font:15px Georgia, serif; 
+    font-weight:bold; 
+    color:#121F46;
+    font-weight:bold; 
+}
+.message-text {
+    padding-bottom: 0;
+}
